@@ -16,7 +16,7 @@ nav{
     background-color: #b43f97;
     padding: 0px;
     margin: 0px;
-    width: 100%;
+    width: 100vw;
     height: 3.5em;
     position: absolute;
     /*overflow: auto;*/
