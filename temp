@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+<title>A World of Colors</title>
+<!--link rel="icon" type="image/x-icon" href="/images/favicon.ico"-->
+<link rel = "stylesheet" href = "index.css">
+</head>
+
+<body>
+<nav><a href="index.html"><h3>عالم من الألوان</h3> <img src="media/QD01.png" width="50em" style="float: right; margin-top: 1em; margin-right: 1em;"></a></nav>
+<div class="main">
+
+<div class="content">
+    <p>Hello</p>
+</div>
+
+<footer>
+    <p>هذه الصفحة هي مشروع توعوي غير ربحي من قبل أفراد مجتمع الميم للمزيد اضفط <a href="about.html">هنا</a></p>
+<hr />
+<div id="License">
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+</div>
+</footer>
+
+</div>
+</body>
