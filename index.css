@@ -53,6 +53,7 @@ nav h2{
     font-size: 3vh;
     direction: rtl;
     margin-bottom: 1em;
+    line-height: 1em;
 }
 footer{
     background-color: #0e2145;
